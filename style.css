@@ -150,6 +150,10 @@ img {
     line-height: 1.7;
 }
 
+.chair{
+    box-shadow: 20px 20px 20px 10px #000;
+}
+
 /* CHAIRS */
 .chair-box {
     padding: 24px;
