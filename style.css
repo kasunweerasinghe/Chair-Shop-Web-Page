@@ -136,6 +136,7 @@ img {
     background-color: #087f5b;
     color: #fff;
     padding: 24px;
+    border-radius: 12px;
 }
 
 .testimonial-box {
@@ -157,6 +158,7 @@ img {
 
 .chair {
     box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.07);
+    border-radius: 12px;
 }
 
 /* CHAIRS */
