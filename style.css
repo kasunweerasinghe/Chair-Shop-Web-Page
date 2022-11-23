@@ -49,7 +49,28 @@ h2 {
 
 .btn:link, .btn:visited {
     background-color: #087f5b;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: 500;
 
+
+}
+
+.btn:hover, .btn:active {
+    background-color: #099268;
+    cursor: pointer;
+}
+
+.btn--big {
+    padding: 16px 32px;
+    font-size: 18px;
+}
+
+.btn--small {
+    font-size: 14px;
+    padding: 8px 12px;
 }
 
 /* ------------------------ */
@@ -158,4 +179,5 @@ h3 {
 footer {
     margin-bottom: 48px;
     font-size: 14px;
+    color: #495057;
 }
